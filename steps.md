@@ -1,12 +1,3 @@
-<!--
- * @LastEditors: Tao Yang
- * @Description: 暂无描述
- * @FilePath: /flutter-doc/steps.md
- * @Date: 2025-05-16 14:49:03
- * @LastEditTime: 2025-10-20 18:11:36
- * @Author: Tao Yang
--->
-
 # 项目搭建
 
 ## 创建项目

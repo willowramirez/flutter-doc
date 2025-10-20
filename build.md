@@ -1,12 +1,3 @@
-<!--
- * @LastEditors: Tao Yang
- * @Description: 暂无描述
- * @FilePath: /flutter-doc/build.md
- * @Date: 2025-06-30 19:35:06
- * @LastEditTime: 2025-10-20 18:09:26
- * @Author: Tao Yang
--->
-
 # 构建 APK
 
 [toc]
